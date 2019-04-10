@@ -3,3 +3,5 @@
 <h3>Deployment is happening through ansible</h3>
 <h4> Passed out in 2016</h4>
 <h1> FINALLY DEPLOYED </h1>
+<h1> DEPLOYED TO DOCKER </h1>
+<h1> HAPPY LEARNING </h1>
